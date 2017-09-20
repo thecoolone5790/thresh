@@ -1,0 +1,24 @@
+#shawn{
+  width:900px;
+  margin:auto;
+}
+.hide{
+  display:none;
+}
+
+.coll_tit{
+  height:26px;
+  padding:20px 0 4px;
+  margin:0 10px 10px;
+  border-bottom:2px solid #cd5c5c
+}
+.coll_cont{
+  margin:0 10px 10px
+}
+.txt_s{
+  font-size:small;
+  color:#999
+}
+.txt_tit{
+  text-indent: 10px
+}

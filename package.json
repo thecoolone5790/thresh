@@ -1,0 +1,32 @@
+{
+  "name": "thresh",
+  "version": "1.0.0",
+  "description": "shawn's company official website",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=express* node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecoolone5790/thresh.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "shawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecoolone5790/thresh/issues"
+  },
+  "homepage": "https://github.com/thecoolone5790/thresh#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.5",
+    "lodash": "^4.17.4",
+    "mocha": "^3.5.3",
+    "mongoose": "^4.11.11",
+    "path": "^0.12.7"
+  }
+}
